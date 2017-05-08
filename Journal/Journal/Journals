@@ -16,3 +16,9 @@ May 5,2017
 -I started to work on the hero class (KeyListening and extending customized classes)
 -Next time we plan to continue to work on the classes and further think of our overall structure of game
 -I also plan to collect graphics and pictures for the "hero"
+
+May 8,2017
+-Today we continued to try to understand our project's structure since we stuck on how to implement our class game 
+	engine to our project
+-We are indecisive on using a game engine we found online, Slick2D, to continue using our class engine
+-We would have to come to a conclusion asap so we can have time to learn and code  
