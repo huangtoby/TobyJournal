@@ -22,3 +22,12 @@ May 8,2017
 	engine to our project
 -We are indecisive on using a game engine we found online, Slick2D, to continue using our class engine
 -We would have to come to a conclusion asap so we can have time to learn and code  
+
+May 9,2017
+-Today our group ended up changing our whole project. We will not be using our class game engine anymore but will be using 
+	Slick2D engine
+-We spend most of our time today looking at videos about how to start up the project and how to import slick
+-Even though the concept of the engine is similar to our class one, there are still different naming and structuring
+-We were able to make a new project with the slick jar and a few classes to start
+-Tomorrow we are planning to start adding things to our screen (including the menu, hero, map)
+ 
