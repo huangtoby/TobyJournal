@@ -44,7 +44,11 @@ May 12,2017
 -There seems to be an error with a jar import we found from online
 -Next time I am planning to work on the menu and making my character visuals better
 
-
+May 15,2017
+-Today I go the hero's movements to work (including walking and running) on the "map"
+-I also added a random map for testing purposes so I can test the collision and movements
+-Tomorrow I plan to work on collision (not walking off the map or crashing into other things)
+-I also plan to make an original and custom map/maze for our game (still looking for a better application to make one) 
 
 
 
