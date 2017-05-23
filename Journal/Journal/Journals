@@ -66,6 +66,12 @@ May 22,2017
 -I also need Fulton's idea into finishing up our map
 -Then I will try to add collision and objects to the game that the character can interact with 
 
+May 23,2017 
+-Today I worked on the map again because the of the error presented by using tiled
+-I am working on parsing the tiled map with slick2D manually other than just using the normal rendering method
+-If I am not able to get our map to render I probably would need to find a new compatible program to make a map
+-Tomorrow is when I decide to continue using tiled or try out another program
+
 
 
 
