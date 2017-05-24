@@ -72,6 +72,13 @@ May 23,2017
 -If I am not able to get our map to render I probably would need to find a new compatible program to make a map
 -Tomorrow is when I decide to continue using tiled or try out another program
 
+May 24,2017 
+-Today I went online again trying to work my map with slick engine
+-I was able to find the solution after trying to change the map to gzip compressed format
+-Now I need to see if the collision editing I did on tile would work or if I have to code each interaction with the map
+-Tomorrow, if I get the collision to work at home, I would work on making our monster and object interaction
+
+
 
 
 
