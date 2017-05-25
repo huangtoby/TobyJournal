@@ -78,6 +78,11 @@ May 24,2017
 -Now I need to see if the collision editing I did on tile would work or if I have to code each interaction with the map
 -Tomorrow, if I get the collision to work at home, I would work on making our monster and object interaction
 
+May 25,2017
+-Today I was able to get character animation to work in on the map
+-I am also working on getting the objectlayer and then adding variables to each individual item
+-Tomorrow I would be working on our collision and then eventually enhancing the interaction with the character 
+
 
 
 
