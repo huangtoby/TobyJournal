@@ -83,7 +83,10 @@ May 25,2017
 -I am also working on getting the objectlayer and then adding variables to each individual item
 -Tomorrow I would be working on our collision and then eventually enhancing the interaction with the character 
 
-
+May 31,2017
+-Today I worked on collision and setting the players input with actually tile position
+-After some help and advice, the collision now "works" (not like the intended way)
+-Tomorrow I will try to work on make the collision work with movement and then make collision for all the layers of the map
 
 
 
