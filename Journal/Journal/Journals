@@ -88,5 +88,9 @@ May 31,2017
 -After some help and advice, the collision now "works" (not like the intended way)
 -Tomorrow I will try to work on make the collision work with movement and then make collision for all the layers of the map
 
+June 1,2017
+-Today I worked on collision again but ended up work on object interactions
+-This included pressing space bar at a location and detecting an object then having the object change or do something
+-Tomorrow I plan to continue to work on the interaction and then try to seperate my one class into multiple classes for clarity 
 
 
