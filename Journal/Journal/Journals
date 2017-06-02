@@ -91,6 +91,12 @@ May 31,2017
 June 1,2017
 -Today I worked on collision again but ended up work on object interactions
 -This included pressing space bar at a location and detecting an object then having the object change or do something
--Tomorrow I plan to continue to work on the interaction and then try to seperate my one class into multiple classes for clarity 
+-Tomorrow I plan to continue to work on the interaction and then try to separate my one class into multiple classes for clarity 
 
+June 2,2017
+-Today I worked on object interaction. I think the logic of the interaction looks fine. Now I just need to test it.
+-I also worked on combining and separating methods. This included making new classes(ex. Player) and moving my code into the 
+Play class
+-Tomorrow I will try to work more on the interaction and see if it actually works. We also need to test the combined class 
+to see if it would compile and run
 
