@@ -100,3 +100,14 @@ Play class
 -Tomorrow I will try to work more on the interaction and see if it actually works. We also need to test the combined class 
 to see if it would compile and run
 
+June 5,2017
+-Today we worked on combining my map/character code and Fulton's play class
+-I was also able to make various classes with getters/setters to make the code look more clear and neat
+-We were able to get the map to run and render
+-Tomorrow I need to work improving my collision and to help out with the monster class (placing them on the tiled map)
+
+
+
+
+
+
