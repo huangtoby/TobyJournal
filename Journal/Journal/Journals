@@ -106,3 +106,9 @@ June 5,2017
 -We were able to get the map to run and render
 -Tomorrow I need to work improving my collision and to help out with the monster class (placing them on the tiled map)
 
+June 6,2017
+-Today I worked on collisions and interactions again
+-I was able to add a wall collision so the character wouldn't just walk off the map
+-I also found an error in my object interaction and I think I am able to figure the problem out
+-Tomorrow I plan to continue to work on the two main problems I am struggling with
+
