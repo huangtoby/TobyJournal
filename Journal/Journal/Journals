@@ -118,7 +118,9 @@ June 7,2017
 -I was able to get that to work but still have a problem to display the chest on the screen
 -Tomorrow I will work on displaying objects on the screen in coordination with the map movement
 
-
-
+June 12,2017
+-Today I finished working on object interaction and character movements
+-I still would need to make the collision better and have the objects that appear stay in one place
+-Next I need to work on changing screens and adding cutscenes during the gameplay 
 
 
